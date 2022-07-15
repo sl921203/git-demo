@@ -1,0 +1,11 @@
+[user]
+	name = Sunlei
+	email = 2034644839@qq.com
+[url "https://"]
+	insteadOf = git://
+[http]
+	sslVerify = false
+[https]
+	sslverify = false
+[core]
+	excludesfile = C:/Users/Administrator/git.ignore
